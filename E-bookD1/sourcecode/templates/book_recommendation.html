@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Recommendation</title>
+</head>
+<body>
+    {% include 'reader_head.html' %}
+    <h1>📚 Book Recommender</h1>
+
+    <form action="book_recommendation" method="POST">
+        <label for="book">Choose a book:</label>
+        <select name="book" id="book">
+            {% for book in books %}
+                <option value="{{ book }}">{{ book }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Recommend</button>
+    </form>
+
+    {% if recommendations is not none %}
+        <h2>Recommended Books</h2>
+        <div class="book-list">
+        {% for _, row in recommendations.iterrows() %}
+            <div class="book-card">
+                <img src="{{ row['Image URL'] }}" height="300px" alt="Cover" class="cover">
+                <h3>{{ row['title'] }}</h3>
+                <p><strong>Author:</strong> {{ row['author'] }}</p>
+                <p><strong>Rating:</strong> {{ row['rate'] }}</p>
+                <p><strong>Pages:</strong> {{ row['num_of_page'] }}</p>
+            </div>
+        {% endfor %}
+        </div>
+    {% endif %}
+</body>
+</html>

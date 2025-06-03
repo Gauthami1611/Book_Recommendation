@@ -1,0 +1,98 @@
+{% include 'reader_head.html' %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reading Challenge</title>
+</head>
+<body>
+    <div class="mt-120">
+        <div class="w-50 m-auto challenge_card p-20">
+            <h1>Challenge details</h1>
+
+            <div class="challenge-box mt-20">
+                <div class="challenge-month">{{ current_month }}</div>
+                <div class="challenge-info">
+                    <h2>Reading Challenge</h2>
+                    <p>Keep reading to finish your first book of the month!</p>
+                </div>
+            </div>
+
+            <p><strong>{{ books_read }} of {{ total_goal }} books read</strong> | {{ days_left }} days left</p>
+
+            <div class="progress">
+                <div class="progress-bar" style="width: {{ percentage }}%;"></div>
+            </div>
+            <div class="progress-text">{{ percentage }}%</div>
+
+            <!-- Conditional Goal Button Logic -->
+            {% if can_set_goal %}
+                <form action="/set_goal" method="GET">
+                    <input type="submit" class="submit-btn p-5 mt-20 w-20 m-auto" value="Set Goal">
+                </form>
+            {% elif goal_set %}
+                <form action="/update_goal" method="GET">
+                    <input type="submit" class="submit-btn p-5 mt-20 w-20 m-auto" value="Update Goal">
+                </form>
+            {% endif %}
+
+        </div>
+    </div>
+</body>
+</html>
+
+
+<style>
+    body {
+        font-family: 'Georgia', serif;
+    }
+
+    .challenge-box {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .challenge-month {
+        background-color: #276e73;
+        color: white;
+        padding: 20px;
+        font-size: 28px;
+        font-weight: bold;
+        border-radius: 4px;
+    }
+
+    .challenge-info h2 {
+        margin: 0;
+        font-size: 28px;
+    }
+
+    .challenge-info p {
+        margin-top: 5px;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .progress {
+        margin-top: 20px;
+        width: 100%;
+        background-color: #f2f2f2;
+        border-radius: 20px;
+        overflow: hidden;
+        height: 30px;
+        position: relative;
+
+    }
+
+    .progress-bar {
+        background-color: #276e73;
+        height: 100%;
+        width: 0%;
+        transition: width 0.3s ease-in-out;
+    }
+
+    .progress-text {
+        text-align: right;
+        font-size: 14px;
+        margin-top: 4px;
+    }
+</style>

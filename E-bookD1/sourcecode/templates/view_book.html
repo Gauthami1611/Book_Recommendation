@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>View Book</title>
+</head>
+<body>
+    <div class="sticky-header">
+        {% include 'reader_head.html' %}
+    </div>
+
+    <div class="row">
+        <div class="col-1"></div>
+        {% for book in books %}
+            <div class="col-3 mt-100 text-center sticky-image">
+                <img src="{{book[10]}}" style="height: 550px; width: 100%;">
+            </div>
+            <div class="col-7 mt-50" style="padding-left: 80px; height: 550px;">
+                <div class="col-7 mt-50" style="padding-left: 60px; overflow-y: auto; width: 90%;">
+                    <h1>{{book[1]}}</h1>
+                    <div class="mt-5" style="font-size: 24px;">{{book[2]}}</div>
+                    <h2>
+                        <div class="star-rating mt-10" style="--rating-width: calc({{book[9]}} / 5 * 100%);" title="Rating: {{book[9]}}"></div> {{book[9]}} 
+                    </h2>
+                    <div class="mt-5" style="font-size: 20px;">
+                        <div >Geners : <h5 style="display: inline-block;">{{book[4]}}</h5></div>
+                    </div>
+                    <div class="mt-5" style="font-size: 20px;">
+                        <div >Language : <h5 style="display: inline-block;">{{book[8]}}</h5></div>
+                    </div>
+                    <div class="mt-5" style="font-size: 20px;">
+                        <div >Publisher : <h5 style="display: inline-block;">{{book[6]}}</h5></div>
+                    </div>
+                    <div class="mt-5" style="font-size: 20px;">
+                        <div >First Published {{book[5]}}</div>
+                    </div>
+                    <div class="mt-5">{{book[7]}} Pages</div>
+                </div>
+                <div class="col-5 mt-80" style="width: 100%;padding-left: 60px;">
+                    <h3>From Same Authors</h3>
+                    {% if authors %}
+                        <div class="mt-20" style="display: flex; overflow-x: auto; gap: 20px; padding-bottom: 10px;">
+                            {% for author in authors %}
+                                <a href="/view_book?book_id={{author[0]}}&selected_title={{author[1]}}" class="card-link">
+                                    <div style="width: 300px; height: 500px; flex-shrink: 0; border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: center;">
+                                        <img src="{{author[10]}}" style="height: 300px;">
+                                        <h4 style="margin: 10px 0 5px;">{{author[1]}}</h4>
+                                        <p style="margin: 0; font-size: 14px; color: #555;"><strong>Author: </strong> {{author[2]}}</p>
+                                        <p style="margin: 0; font-size: 14px; color: #555;"><strong>Language:</strong>{{author[8]}}</p>
+                                        <p><div class="star-rating mt-10" style="--rating-width: calc({{author[9]}} / 5 * 100%);" title="Rating: {{author[9]}}"></div> {{author[9]}}</p>
+                                    </div>
+                                </a>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        <p class="mt-5" style="color: #888; font-style: italic;">No additional books found by this author.</p>
+                    {% endif %}
+                </div>
+                <div class="col-5 mt-30" style="width: 100%;padding-left: 60px;">
+                    {% if other_books %}
+                        <h3>Others Also Liked These Books</h3>
+                        <div class="mt-20" style="display: flex; overflow-x: auto; gap: 20px; padding-bottom: 10px;">
+                            {% for other_book in other_books %}
+                                {% set books = get_book_by_book_id(other_book[1]) %}
+                                {% for book in books %}
+                                    <a href="/view_book?book_id={{book[0]}}&selected_title={{book[1]}}" class="card-link">
+                                        <div style="width: 300px; height: 500px; flex-shrink: 0; border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: center;">
+                                            <img src="{{book[10]}}" style="height: 300px;">
+                                            <h4 style="margin: 10px 0 5px;">{{book[1]}}</h4>
+                                            <p style="margin: 0; font-size: 14px; color: #555;"><strong>Author: </strong> {{book[2]}}</p>
+                                            <p style="margin: 0; font-size: 14px; color: #555;"><strong>Language:</strong> {{book[8]}}</p>
+                                            <p>
+                                                <div class="star-rating mt-10" style="--rating-width: calc({{book[9]}} / 5 * 100%);" title="Rating: {{book[9]}}"></div> {{book[9]}}
+                                            </p>
+                                        </div>
+                                    </a>
+                                {% endfor %}
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                </div>
+                <div class="col-5 mt-30" style="width: 100%;padding-left: 60px;">
+                    <h3 class="mt-40">Recommended Books</h3>
+                    <div class="recommended-books">
+                        {% if not recommendations.empty %}
+                        <div style="display: flex; overflow-x: auto; gap: 20px;">
+                        {% for book in recommendations.iterrows() %}
+                            <a href="/view_book?book_id={{book[1][0]}}&selected_title={{book[1][1]}}" class="card-link">
+                                <div style="width: 300px; height: 500px; flex-shrink: 0; border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9; box-shadow: 0 2px 4px rgba(0,0,0,0.1); text-align: center;">
+                                    <img src="{{book[1][10]}}" style="height: 300px;">
+                                    <h4 style="margin: 10px 0 5px;">{{book[1][1]}}</h4>
+                                    <p style="margin: 0; font-size: 14px; color: #555;"><strong>Author: </strong> {{book[1][2]}}</p>
+                                    <p style="margin: 0; font-size: 14px; color: #555;"><strong>Language:</strong>{{book[1][8]}}</p>
+                                    <p><div class="star-rating mt-10" style="--rating-width: calc({{book[1][9]}} / 5 * 100%);" title="Rating: {{book[1][9]}}"></div> {{book[1][9]}}</p>
+                                </div>
+                            </a>
+                        {% endfor %}
+                        </div>
+                    {% else %}
+                        <p>No recommendations found.</p>
+                    {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+        <div class="col-1"></div>
+    </div>
+</body>
+</html>

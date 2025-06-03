@@ -1,0 +1,16 @@
+{% include 'reader_head.html' %}
+
+<div class="mt-20">
+    <div class="w-35 m-auto challenge_card p-30">
+        <h2>Update Your Reading Goal for<span class="">"{{current_month}}"</span></h2>
+        <form method="POST" class="mt-20">
+            <div>
+                <label for="goal">How many books do you plan to read?</label><br>
+                <input type="number" name="goal" min="1" class="input-class" id="goal" value="{{reader_goals}}" required>
+            </div>
+            <div>
+                <input type="submit" class="submit-btn p-5 mt-20" value="Update Goal">
+            </div>
+        </form>
+    </div>
+</div>

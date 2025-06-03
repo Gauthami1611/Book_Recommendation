@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Genres</title>
+</head>
+<body>
+    {% include 'head.html' %}
+
+    <div class="mt-60">
+        <div class="card mt-50 p-30">
+            <h2 class="text-center color-primary mt-10">Select your favorite Genres.</h2>
+
+            <p class="text-center mt-10 p-10" style="background-color: var(--color-secondary-lite); border-radius: 8px;">
+                We use your favorite genres to make better book recommendations and tailor what you see in your Updates feed.
+            </p>
+
+            <form method="post" action="/submit_genres" class="mt-30">
+                <input type="hidden" value="{{reader_id}}" name="reader_id" id="reader_id">
+                <div class="row" style="gap: 10px; max-height: 300px; overflow-y: auto; padding-left: 150px;">
+                    {% for genre in genres %}
+                    <div class="col-3">
+                        <label for="selected_genres" style="display: flex; align-items: center; gap: 10px; padding: 10px; background-color: var(--color-white); border: 1px solid var(--color-gray-lite); border-radius: 6px;">
+                            <input type="checkbox" name="selected_genres" id="selected_genres" value="{{ genre[0] }}">
+                            <span class="color-black">{{ genre[1].strip() }}</span>
+                        </label>
+                    </div>
+                    {% endfor %}
+                </div>
+                <div class="text-center mt-30">
+                    <button type="submit" class="submit-btn col-3">Save Preferences</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

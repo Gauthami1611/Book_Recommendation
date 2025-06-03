@@ -1,0 +1,24 @@
+{% include 'link.html' %}
+
+<nav class="row nav p-10">
+    <div class="col-2"></div>
+    <div class="row col-2">
+        <div class="col-9"></div>
+        <div class="col-3 text-right"><a href="/reader_home" class="nav-items">Home</a></div>
+
+    </div>
+    <div class="col-8 row">
+        <div class="col-2 text-center"><a href="/genre_books" class="nav-items">Genre</a></div>
+        <div class="col-2 text-center"><a href="/view_books" class="nav-items">View Books</a></div>
+        <div class="col-2 text-center">
+            <a href="/new_arrivals" class="nav-items1
+                {% if request.path == '/new_arrivals' %}{% elif request.path == '/view_new_arrival' %}{% else %}blink{% endif %}">
+                New Arrivals
+            </a>
+        </div>
+        <div class="col-2 text-center"><a href="/not_rated" class="nav-items">Not Rated</a></div>
+        <div class="col-2 text-center"><a href="/logout" class="nav-items">Logout</a></div>
+    </div>
+</nav>
+
+

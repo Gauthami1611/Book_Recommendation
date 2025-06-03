@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Home</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: url('https://media.istockphoto.com/id/1211471889/photo/book.jpg?s=612x612&w=0&k=20&c=gfegZq9Clq50Feoo7YVsoK8EVHKoXYXJ3QwsBY7_E24=') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff;
+        }
+        .overlay {
+            background-color: rgba(0, 0, 0, 0.6);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 2rem;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        p {
+            font-size: 1.2rem;
+            max-width: 600px;
+        }
+        .welcome-box {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+        }
+    </style>
+</head>
+<body>
+    {% include 'admin_head.html' %}
+    <div class="overlay">
+        <div class="welcome-box">
+            <h1>Welcome, Admin!</h1>
+            <p>Use your dashboard to manage e-books, users, reports, and settings. Everything you need to control the platform is at your fingertips.</p>
+        </div>
+    </div>
+</body>
+</html>

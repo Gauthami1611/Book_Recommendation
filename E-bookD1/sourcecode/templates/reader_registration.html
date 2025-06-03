@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reader Registration</title>
+</head>
+<body>
+    {% include 'head.html' %}
+    <div class="row ">
+        <div class="col-6 mt-70">
+            <div class="card p-10">
+                <h2 class="text-center">Reader Registration</h2>
+                <form action="reader_registration_action" method="post" enctype="multipart/form-data">
+                    <div class="row">
+                        <div class="col-6 p-10">
+                            <div>
+                                <label for="first_name">First Name</label>
+                                <div class="mt-5">
+                                    <input type="text" class="input-class" name="first_name" id="first_name" placeholder="Enter Your First Name" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 p-10">
+                            <div>
+                                <label for="last_name">Last Name</label>
+                                <div class="mt-5">
+                                    <input type="text" class="input-class" name="last_name" id="last_name" placeholder="Enter Your Last Name" required>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6 p-10">
+                            <div>
+                                <label for="email">Email</label>
+                                <div class="mt-5 ">
+                                    <input type="text" class="input-class" name="email" id="email" placeholder="Enter Email Id" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 p-10">
+                            <div>
+                                <label for="phone">Phone</label>
+                                <div class="mt-5">
+                                    <input type="number" class="input-class" name="phone" id="phone" maxlength="10" placeholder="Enter Your Phone Number" required>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6 p-10">
+                            <div>
+                                <label for="password">Password</label>
+                                <div class="mt-5">
+                                    <input type="password" class="input-class" name="password" id="password" placeholder="Enter Your Password" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 p-10">
+                            <div>
+                                <label for="confirm_password">Confirm Password</label>
+                                <div class="mt-5">
+                                    <input type="password" class="input-class" name="confirm_password" id="confirm_password" placeholder="Confirm Your Password" required>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-10 p-10">
+                        <label for="address">Address</label>
+                        <div class="mt-5">
+                            <textarea class="input-class" name="address" id="address" required placeholder="Enter Your Address"></textarea>
+                        </div>
+                    </div>
+                    <div>
+                        <input type="submit" class="submit-btn p-5 mt-10" value="Register">
+                    </div>
+                </form>
+                <div class="mt-10 text-center">
+                    Have an account? <a class="color-primary" style="font-weight: bold; font-size: 18px;" href="/reader_login">Login Here!</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-6"></div>
+    </div>
+</body>
+</html>

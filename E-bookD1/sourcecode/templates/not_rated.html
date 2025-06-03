@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>New Arrivals</title>
+</head>
+<body>
+    {% include 'reader_head.html' %}
+
+    <h2 class="text-center mt-30">Not Rated Books</h2>
+
+    <div class="row m-20" style="overflow-x: hidden;">
+        {% for not_rated_book in not_rated_books %}
+            <div class="col-3">
+                <div class="card_plain1 p-10">
+                    <a href="/view_not_rated_books?book_title={{not_rated_book[1]}}" class="card-link"> <!-- Book URL -->
+                        <div class="card_header">
+                            <div class="text-center">
+                                <img src="{{not_rated_book[6]}}" style="height: 300px; padding-top: 10px;"> <!-- Image URL -->
+                            </div>
+                        </div>
+                        <div class="card-body p-10">
+                            <h4 class="text-center link">{{not_rated_book[1]}}</h4> <!-- Book Title -->
+                            <div class="text-center mt-5">{{not_rated_book[2]}}</div> <!-- Author -->
+                            <div class="mt-5 text-center" style="font-weight: bold;">
+                                Rating: {{not_rated_book[8]}} <!-- Rating -->
+                                <div class="star-rating" style="--rating-width: calc({{not_rated_book[8]}} / 5 * 100%);" title="Rating: {{not_rated_book[8]}}"></div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+</body>
+</html>

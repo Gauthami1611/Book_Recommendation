@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Book</title>
+</head>
+<body>
+    {% include 'admin_head.html' %}
+    <div class="row">
+        <div class="col-4"></div>
+        <div class="col-4 mt-100">
+            <div class="card_plain p-40">
+                <h2 class="text-center">Upload Books</h2>
+                <form action="upload_book_action" method="post" enctype="multipart/form-data">
+                    <div class="mt-10">
+                        <label for="file">Upload Book File</label>
+                        <div class="mt-5">
+                            <input type="file" class="input-class" name="file" id="file" placeholder="Upload File" required>
+                        </div>
+                    </div>
+                    <div>
+                        <input type="submit" class="submit-btn p-5 mt-20" value="Upload">
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="col-4"></div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>⭐ Rating </title>
+</head>
+<body>
+  {% include 'reader_head.html' %}
+
+  <div class="row p-20">
+    <div class="col-1"></div>
+    <div class="col-3 mt-100 text-center sticky-image">
+      <img src="{{cover_url}}" style="height: 550px; width: 100%;">
+    </div>
+    <div class="col-7 mt-50" style="padding-left: 80px; height: 550px;">
+      <div class="col-7 mt-80" style="padding-left: 60px; overflow-y: auto; width: 90%;">
+        <h1 class="mt-5">{{title}}</h1>
+        <div class="mt-10" style="font-size: 24px;">{{author}}</div>
+        <h2>
+            <div class="star-rating mt-10" style="--rating-width: calc({{rating}} / 5 * 100%);" title="Rating: {{rating}}"></div> {{rating}}
+        </h2>
+      </div>
+      <div class="col-5 mt-20" style="padding-left: 60px; overflow-y: auto; width: 90%;">
+          <h3 class="mt-20" style="color: #00a49d;"><strong>Published Date:</strong>{{ published_date }}</h3>
+          <p class="mt-5" style="color: #00a49d;"><strong>Genre:</strong> {{categories}}</p>
+          <p class="mt-5" style="color: #a52a2a;"><strong>Description:</strong> {{description}}</p>
+      </div>
+      <div class="ml-60">
+          <h2 class="">
+            <div class="star-rating mt-10" style="--rating-width: calc({{rating}} / 5 * 100%);" title="Current Average Rating: {{rating}}">
+              ⭐ Average: {{rating}}
+            </div>
+          </h2>
+
+<!-- Rating form -->
+          {% if not already_rated %}
+          <form method="POST" action="/rate_book" style="margin-top: 10px;">
+            <input type="hidden" name="book_title" value="{{title}}">
+            <input type="hidden" name="not_rated_id" value="{{not_rated_id}}">
+            <div class="star-input">
+              {% for i in range(5, 0, -1) %}
+                <input type="radio" id="star{{i}}" name="given_rating" value="{{i}}">
+                <label for="star{{i}}">★</label>
+              {% endfor %}
+            </div><br>
+            <button type="submit" class="submit-btn p-5 mt-20 w-20">Submit Rating</button>
+          </form>
+          {% else %}
+          <p class="mt-20" style="color: green;"><strong>You have already rated this book.</strong></p>
+          {% endif %}
+
+        </div>
+    </div>
+    <div class="col-1"></div>
+  </div>
+
+</body>
+</html>
+
+
+
+
+<style>
+  .star-input {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    display: inline-block;
+  }
+
+  .star-input input[type="radio"] {
+    display: none;
+  }
+
+  .star-input label {
+    color: #ccc;
+    font-size: 30px;
+    cursor: pointer;
+  }
+
+  .star-input input[type="radio"]:checked ~ label {
+    color: gold;
+  }
+
+  .star-input label:hover,
+  .star-input label:hover ~ label {
+    color: gold;
+  }
+</style>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>View Books</title>
+</head>
+<body>
+    <div class="sticky-header">
+        {% if session['role'] == "Reader" %}
+            {% include 'reader_head.html' %}
+        {% else %}
+            {% include 'admin_head.html' %}
+        {% endif %}
+    </div>
+    <h2 class="text-center mt-30">View Books</h2>
+    <div>
+        <div class="card_plain" style="background-color: white;">
+            <form action="view_books">
+                <div class="row">
+                    <div class="col-2"></div>
+                    <div class="col-4 m-10">
+                        <input type="text" name="author_name" id="author_name" class="input-class text-center" onchange="this.form.submit()" placeholder="Enter Author or Title Name" value="{{author_name}}">
+                    </div>
+                    <div class="col-4 m-10">
+                        <select class="input-class" name="lang" onchange="this.form.submit()">
+                            <option value="" selected disabled>Please Select a Language</option>
+                            <option value="English" {% if lang=='English' %} selected {% endif %} >English</option>
+                            <option value="Spanish" {% if lang=='Spanish' %} selected {% endif %}>Spanish</option>
+                            <option value="French" {% if lang=='French' %} selected {% endif %}>French</option>
+                            <option value="Japanese" {% if lang=='Japanese' %} selected {% endif %}>Japanese</option>
+                            <option value="Finnish" {% if lang=='Finnish' %} selected {% endif %}>Finnish</option>
+                            <option value="Portuguese" {% if lang=='Portuguese' %} selected {% endif %}>Portuguese</option>
+                            <option value="German" {% if lang=='German' %} selected {% endif %}>German</option>
+                            <option value="Arabic" {% if lang=='Arabic' %} selected {% endif %}>Arabic</option>
+                            <option value="Danish" {% if lang=='Danish' %} selected {% endif %}>Danish</option>
+                            <option value="Polish" {% if lang=='Polish' %} selected {% endif %}>Polish</option>
+                            <option value="Dutch" {% if lang=='Dutch' %} selected {% endif %}>Dutch</option>
+                            <option value="Swedish" {% if lang=='Swedish' %} selected {% endif %}>Swedish</option>
+                            <option value="Italian" {% if lang=='Italian' %} selected {% endif %}>Italian</option>
+                            <option value="Catalan; Valencian" {% if lang=='Catalan; Valencian' %} selected {% endif %}>Catalan and Valencian</option>
+                            <option value="Indonesian" {% if lang=='Indonesian' %} selected {% endif %}>Indonesian</option>
+                            <option value="Greek, Modern (1453-)" {% if lang=='Greek, Modern (1453-)' %} selected {% endif %}>Modern Greek</option>
+                            <option value="Czech" {% if lang=='Czech' %} selected {% endif %}>Czech</option>
+                            <option value="Georgian" {% if lang=='Georgian' %} selected {% endif %}>Georgian</option>
+                            <option value="Persian" {% if lang=='Persian' %} selected {% endif %}>Persian</option>
+                            <option value="Russian" {% if lang=='Russian' %} selected {% endif %}>Russian</option>
+                            <option value="Latvian" {% if lang=='Latvian' %} selected {% endif %}>Latvian</option>
+                            <option value="Chinese" {% if lang=='Chinese' %} selected {% endif %}>Chinese</option>
+                            <option value="Romanian" {% if lang=='Romanian' %} selected {% endif %}>Romanian</option>
+                            <option value="Norwegian Nynorsk; Nynorsk, Norwegian" {% if lang=='Norwegian Nynorsk; Nynorsk, Norwegian' %} selected {% endif %}>Norwegian Nynorsk / Nynorsk, Norwegian</option>
+                            <option value="Urdu" {% if lang=='Urdu' %} selected {% endif %}>Urdu</option>
+                            <option value="Lithuanian" {% if lang=='Lithuanian' %} selected {% endif %}>Lithuanian</option>
+                            <option value="Ukrainian" {% if lang=='Ukrainian' %} selected {% endif %}>Ukrainian</option>
+                            <option value="Norwegian" {% if lang=='Norwegian' %} selected {% endif %}>Norwegian</option>
+                            <option value="Malayalam" {% if lang=='Malayalam' %} selected {% endif %}>Malayalam</option>
+                            <option value="Greek, Ancient (to 1453)" {% if lang=='Greek, Ancient (to 1453)' %} selected {% endif %}>Ancient Greek</option>
+                            <option value="Croatian" {% if lang=='Croatian' %} selected {% endif %}>Croatian</option>
+                            <option value="Hungarian" {% if lang=='Hungarian' %} selected {% endif %}>Hungarian</option>
+                            <option value="Korean" {% if lang=='Korean' %} selected {% endif %}>Korean</option>
+                            <option value="Multiple languages" {% if lang=='Multiple languages' %} selected {% endif %}>Multiple languages</option>
+                        </select>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="row m-20" style="overflow-x: hidden;">
+        {% for book in books %}
+            <div class="col-3">
+                <div class="card_plain1 p-10">
+                    <a href="/view_book?book_id={{book[0]}}&selected_title={{book[1]}}" class="card-link">
+                        <div class="card_header">
+                            <div class="text-center">
+                                <img src="{{book[10]}}" style="height: 300px; padding-top: 10px;">
+                            </div>
+                        </div>
+                        <div class="card-body p-10">
+                            <h4 class="text-center link">{{book[1]}}</h4>
+                            <div class="text-center mt-5">{{book[2]}}</div>
+                            <div class="mt-5" style="font-weight: bold;">
+                                Rating: {{book[9]}}
+                                <div class="star-rating" style="--rating-width: calc({{book[9]}} / 5 * 100%);" title="Rating: {{book[9]}}"></div>
+                            </div>
+                            <div class="mt-5" style="font-weight: bold; display: inline-block;">Genre: </div>  {{book[11]}}, {{book[12]}} <br>
+                            <div class="mt-5" style="font-weight: bold; display: inline-block;">Publisher: </div>  {{book[6]}} <br>
+                            <div class="mt-5" style="font-weight: bold; display: inline-block;">Published Date: </div>  {{book[5]}}<br>
+                            <div class="mt-5" style="font-weight: bold; display: inline-block;">Language: </div>  {{book[8]}}<br>
+                        </div>
+                    </a>
+                    <div class="card-footer">
+                        {% if session['role'] == "Reader" %}
+                            <form action="reader_book_action" method="post">
+                                <input type="hidden" value="{{book[0]}}" name="book_id" id="book_id">
+                                <div class="row mt-10">
+                                    <div class="col-1"></div>
+                                    <div class="col-5 mt-5">
+                                        {% set status = reader_books.get(book[0], "Want to Read") %}
+                                        {% if status != "Read" %}
+                                            <select name="status" class="dropdown input-classes">
+                                                {% if status == "Currently Reading" %}
+                                                    <option value="Currently Reading" selected>Currently Reading</option>
+                                                    <option value="Read">Read</option>
+                                                {% else %}
+                                                    <option value="Want to Read" {% if status == "Want to Read" %}selected{% endif %}>Want to Read</option>
+                                                    <option value="Currently Reading">Currently Reading</option>
+                                                    <option value="Read">Read</option>
+                                                {% endif %}
+                                            </select>
+                                        {% else %}
+                                            <div class="text-right mt-5" style="font-weight: bold;">Status: Read</div>
+                                        {% endif %}
+                                    </div>
+                                    <div class="col-1"></div>
+                                    {% if status != "Read" %}
+                                        <div class="col-4">
+                                            <input type="submit" class="submit-btn p-5" value="Update">
+                                        </div>
+                                    {% endif %}
+                                </div>
+                            </form>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+<div class="pagination text-center mt-20">
+    {% if page > 1 %}
+        <a href="{{ url_for('view_books', page=page-1, genre=genre, author_name=author_name, lang=lang, status=status) }}">« Prev</a>
+    {% endif %}
+
+    Page {{ page }} of {{ total_pages }}
+
+    {% if page < total_pages %}
+        <a href="{{ url_for('view_books', page=page+1, genre=genre, author_name=author_name, lang=lang, status=status) }}">Next »</a>
+    {% endif %}
+</div>
+
+</body>
+</html>
+
+<style>
+.pagination a {
+    margin: 0 5px;
+    padding: 8px 16px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.pagination a:hover {
+    background-color: #0056b3;
+}
+</style>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>New Arrivals</title>
+</head>
+<body>
+    {% include 'reader_head.html' %}
+
+    <h2 class="text-center mt-30">New Arrivals</h2>
+
+    <div class="row m-20" style="overflow-x: hidden;">
+        {% for book in new_arrivals %}
+            <div class="col-3">
+                <div class="card_plain1 p-10">
+                    <a href="/view_new_arrival?book_title={{book[1]}}" class="card-link"> <!-- Book URL -->
+                        <div class="card_header">
+                            <div class="text-center">
+                                <img src="{{book[11]}}" style="height: 300px; padding-top: 10px;"> <!-- Image URL -->
+                            </div>
+                        </div>
+                        <div class="card-body p-10">
+                            <h4 class="text-center link">{{book[1]}}</h4> <!-- Book Title -->
+                            <div class="text-center mt-5">{{book[2]}}</div> <!-- Author -->
+                            <div class="mt-5 text-center" style="font-weight: bold;">
+                                Rating: {{book[3]}} <!-- Rating -->
+                                <div class="star-rating" style="--rating-width: calc({{book[3]}} / 5 * 100%);" title="Rating: {{book[3]}}"></div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+</body>
+</html>

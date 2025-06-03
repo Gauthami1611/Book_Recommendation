@@ -1,0 +1,464 @@
+id,title,author,book_link,genre,date_published,publisher,num_of_page,lang,rate,Image URL,primary_genre,sub_genre
+0,The Martian,Andy Weir,https://www.goodreads.com/book/show/18007564-the-martian,"Science Fiction,Fiction",February 11th 2014,"Crown
+
+            ,",384,English,4.4,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413706054i/18007564.jpg,Science Fiction,Fiction
+1,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,https://www.goodreads.com/book/show/10847.Under_the_Banner_of_Heaven,"Nonfiction,Religion",2004,"Pan MacMillan
+
+            ,",400,English,3.98,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356441391i/10847.jpg,Nonfiction,Religion
+2,Cutting for Stone,Abraham   Verghese,https://www.goodreads.com/book/show/3591262-cutting-for-stone,"Fiction,Historical",February 3rd 2009,"Alfred A. Knopf
+
+            ,",541,English,4.29,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553715166i/3591262.jpg,Fiction,Historical
+3,We Need to Talk About Kevin,Lionel Shriver,https://www.goodreads.com/book/show/80660.We_Need_to_Talk_About_Kevin,"Fiction,Contemporary",July 3rd 2006,"Harper Perennial
+
+            ,",400,English,4.04,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327865017i/80660.jpg,Fiction,Contemporary
+4,The Immortal Life of Henrietta Lacks,Rebecca Skloot,https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks,"Nonfiction,Science",February 2nd 2010,"Crown Publishing Group
+
+            ,",370,English,4.07,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327878144i/6493208.jpg,Nonfiction,Science
+5,"Eragon (The Inheritance Cycle, #1)",Christopher Paolini,https://www.goodreads.com/book/show/113436.Eragon,"Fantasy,Young Adult",Apr-05,"Alfred A. Knopf
+
+            ,",503,English,3.92,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366212852i/113436.jpg,Fantasy,Young Adult
+6,Unaccustomed Earth,Jhumpa Lahiri,https://www.goodreads.com/book/show/85301.Unaccustomed_Earth,"Fiction,Short Stories",2008,Knopf,352,English,4.07,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320398140i/85301.jpg,Fiction,Short Stories
+7,"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin,https://www.goodreads.com/book/show/10664113-a-dance-with-dragons,"Fantasy,Fiction",July 12th 2011,Bantam,1125,English,4.31,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1581625286i/10664113.jpg,Fantasy,Fiction
+8,The Outlands  (The Outlands Saga #1),Tyler Edwards,https://www.goodreads.com/book/show/56305116-the-outlands,"Young Adult,Science Fiction",December 14th 2020,iFlow Creative,452,English,4.17,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608080517i/56305116.jpg,Young Adult,Science Fiction
+9,"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare,https://www.goodreads.com/book/show/7171637-clockwork-angel,"Fantasy,Young Adult",August 31st 2010,Margaret K. McElderry Books,479,English,4.3,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693490271i/7171637.jpg,Fantasy,Young Adult
+10,"World Without End (Kingsbridge, #2)",Ken Follett,https://www.goodreads.com/book/show/5064.World_Without_End,"Historical,Historical Fiction",October 4th 2007,Dutton,1014,English,4.26,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509545511i/5064.jpg,Historical,Historical Fiction
+11,"Animal, Vegetable, Miracle: A Year of Food Life","Barbara Kingsolver,Steven L. Hopp,Camille Kingsolver,Richard A. Houser",https://www.goodreads.com/book/show/25460.Animal_Vegetable_Miracle,"Nonfiction,Food and Drink",May 1st 2007,HarperCollins Publishers,370,English,4.01,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480104279i/25460.jpg,Nonfiction,Food and Drink
+12,The Five People You Meet in Heaven,Mitch Albom,https://www.goodreads.com/book/show/3431.The_Five_People_You_Meet_in_Heaven,"Fiction,Inspirational",September 23rd 2003,"Hyperion
+
+            ,",196,English,3.95,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388200541i/3431.jpg,Fiction,Inspirational
+13,On Beauty,Zadie Smith,https://www.goodreads.com/book/show/3679.On_Beauty,"Fiction,Contemporary",August 29th 2006,"Penguin Books
+
+            ,",445,English,3.73,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598196388i/3679.jpg,Fiction,Contemporary
+22,Shantaram,Gregory David Roberts,https://www.goodreads.com/book/show/33600.Shantaram,"Fiction,Cultural",2004,"Scribe
+
+            ,",936,English,4.23,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333482282i/33600.jpg,Fiction,Cultural
+24,Seabiscuit: An American Legend,Laura Hillenbrand,https://www.goodreads.com/book/show/110737.Seabiscuit,"Nonfiction,History",July 1st 2003,"Ballantine Books
+
+            ,",457,English,4.18,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1171644213i/110737.jpg,Nonfiction,History
+27,"The Titan's Curse (Percy Jackson and the Olympians, #3)","Rick Riordan,Cẩm Chi",https://www.goodreads.com/book/show/561456.The_Titan_s_Curse,"Fantasy,Young Adult",May 5th 2007,Puffin Books,320,English,4.34,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361038385i/561456.jpg,Fantasy,Young Adult
+28,"Shadow Kiss (Vampire Academy, #3)",Richelle Mead,https://www.goodreads.com/book/show/2802316-shadow-kiss,"Young Adult,Paranormal",November 13th 2008,Razorbill,443,English,4.32,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361099049i/2802316.jpg,Young Adult,Paranormal
+29,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan,https://www.goodreads.com/book/show/2120932.The_Battle_of_the_Labyrinth,"Fantasy,Young Adult",March 6th 2008,Hyperion Books for Children,361,English,4.39,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1518607478i/2120932.jpg,Fantasy,Young Adult
+31,2666,Roberto Bolaño,https://www.goodreads.com/book/show/63032.2666,"Fiction,Literature",October 1st 2004,"Anagrama
+
+            ,",1128,Spanish,4.13,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672791535i/63032.jpg,Fiction,Literature
+32,"Frostbite (Vampire Academy, #2)",Richelle Mead,https://www.goodreads.com/book/show/2282133.Frostbite,"Young Adult,Fantasy",April 10th 2008,"Razorbill
+
+            ,",327,English,4.24,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361098960i/2282133.jpg,Young Adult,Fantasy
+34,"The Lost Symbol (Robert Langdon, #3)",Dan Brown,https://www.goodreads.com/book/show/6411961-the-lost-symbol,"Fiction,Mystery",September 15th 2009,Doubleday,509,English,3.73,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534070883i/6411961.jpg,Fiction,Mystery
+35,"Olive Kitteridge (Olive Kitteridge, #1)",Elizabeth Strout,https://www.goodreads.com/book/show/1736739.Olive_Kitteridge,"Fiction,Short Stories",March 25th 2008,Random House,270,English,3.83,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320430655i/1736739.jpg,Fiction,Short Stories
+36,The Last Lecture,"Randy Pausch,Jeffrey Zaslow",https://www.goodreads.com/book/show/2318271.The_Last_Lecture,"Nonfiction,Autobiography",April 8th 2008,Hachette Books,206,English,4.23,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631968383i/2318271.jpg,Nonfiction,Autobiography
+37,"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs,https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children,"Fantasy,Young Adult",June 7th 2011,Quirk,352,English,3.91,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623449170i/9460487.jpg,Fantasy,Young Adult
+38,"Me Before You (Me Before You, #1)",Jojo Moyes,https://www.goodreads.com/book/show/17347634-me-before-you,"Romance,Fiction",July 30th 2013,"Penguin Books
+
+            ,",369,English,4.25,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665087720i/17347634.jpg,Romance,Fiction
+39,The Tales of Beedle the Bard,"J.K. Rowling,Lý Lan",https://www.goodreads.com/book/show/3950967-the-tales-of-beedle-the-bard,"Fantasy,Fiction",December 4th 2008,Bloomsbury,109,English,4.04,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630876355i/3950967.jpg,Fantasy,Fiction
+40,Reading Lolita in Tehran: A Memoir in Books,Azar Nafisi,https://www.goodreads.com/book/show/7603.Reading_Lolita_in_Tehran,"Nonfiction,Autobiography",December 30th 2003,"Random House Trade Paperbacks
+
+            ,",356,English,3.62,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397751318i/7603.jpg,Nonfiction,Autobiography
+41,The Plot Against America,Philip Roth,https://www.goodreads.com/book/show/703.The_Plot_Against_America,"Fiction,Historical",September 27th 2005,"Vintage International
+
+            ,",391,English,3.76,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553896240i/703.jpg,Fiction,Historical
+44,The Ocean at the End of the Lane,Neil Gaiman,https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane,"Fantasy,Fiction",June 18th 2013,William Morrow Books,181,English,4,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497098563i/15783514.jpg,Fantasy,Fiction
+45,"Wolf Hall (Thomas Cromwell, #1)",Hilary Mantel,https://www.goodreads.com/book/show/6101138-wolf-hall,"Historical,Historical Fiction",2010,"HarperCollins Publishers Ltd
+
+            ,",653,English,3.87,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627203575i/6101138.jpg,Historical,Historical Fiction
+46,"Uglies (Uglies, #1)",Scott Westerfeld,https://www.goodreads.com/book/show/24770.Uglies,"Young Adult,Science Fiction",February 8th 2005,Simon Pulse,425,English,3.85,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654202671i/24770.jpg,Young Adult,Science Fiction
+47,"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick,https://www.goodreads.com/book/show/6339664-hush-hush,"Young Adult,Fantasy",October 13th 2009,Simon & Schuster BFYR,391,English,3.94,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358261334i/6339664.jpg,Young Adult,Fantasy
+48,A Visit from the Goon Squad,Jennifer Egan,https://www.goodreads.com/book/show/7331435-a-visit-from-the-goon-squad,"Fiction,Contemporary",June 8th 2010,Knopf,288,English,3.67,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356844046i/7331435.jpg,Fiction,Contemporary
+49,"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare,https://www.goodreads.com/book/show/6752378-city-of-fallen-angels,"Fantasy,Young Adult",April 5th 2011,Margaret K. McElderry Books,425,English,4.09,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369452302i/6752378.jpg,Fantasy,Young Adult
+50,"Inkheart (Inkworld, #1)","Cornelia Funke,Anthea Bell",https://www.goodreads.com/book/show/28194.Inkheart,"Fantasy,Young Adult",May 1st 2005,"Scholastic Paperbacks
+
+            ,",563,English,3.89,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538266636i/28194.jpg,Fantasy,Young Adult
+51,"Blood Promise (Vampire Academy, #4)",Richelle Mead,https://www.goodreads.com/book/show/5996153-blood-promise,"Young Adult,Paranormal",August 25th 2009,Razorbill,503,English,4.29,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442530605i/5996153.jpg,Young Adult,Paranormal
+52,Peace Like a River,Leif Enger,https://www.goodreads.com/book/show/227571.Peace_Like_a_River,"Fiction,Historical",August 7th 2002,"Atlantic Monthly Press
+
+            ,",312,English,3.96,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436139976i/227571.jpg,Fiction,Historical
+53,"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris,https://www.goodreads.com/book/show/301082.Dead_Until_Dark,"Fantasy,Paranormal",May 1st 2001,Ace Books,292,English,3.96,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468560853i/301082.jpg,Fantasy,Paranormal
+54,Let the Great World Spin,Colum McCann,https://www.goodreads.com/book/show/5941033-let-the-great-world-spin,"Fiction,Historical",June 23rd 2009,"Random House
+
+            ,",351,English,3.92,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474988022i/5941033.jpg,Fiction,Historical
+55,The Yiddish Policemen's Union,Michael Chabon,https://www.goodreads.com/book/show/16703.The_Yiddish_Policemen_s_Union,"Fiction,Mystery",May 1st 2007,HarperCollins,414,English,3.71,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528196883i/16703.jpg,Fiction,Mystery
+56,Nickel and Dimed: On (Not) Getting by in America,Barbara Ehrenreich,https://www.goodreads.com/book/show/1869.Nickel_and_Dimed,"Nonfiction,Sociology",May 1st 2002,"Owl Books (Henry Holt)
+
+            ,",240,English,3.64,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442378091i/1869.jpg,Nonfiction,Sociology
+57,Running with Scissors,Augusten Burroughs,https://www.goodreads.com/book/show/242006.Running_with_Scissors,"Autobiography,Memoir",June 1st 2003,"Picador USA
+
+            ,",304,English,3.73,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690319656i/242006.jpg,Autobiography,Memoir
+58,1Q84 (1Q84 #1-3),"Haruki Murakami,Jay Rubin,Philip Gabriel",https://www.goodreads.com/book/show/10357575-1q84,"Fiction,Fantasy",October 25th 2011,"Knopf
+
+            ,",925,English,3.92,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483103331i/10357575.jpg,Fiction,Fantasy
+59,The Invention of Hugo Cabret,Brian Selznick,https://www.goodreads.com/book/show/9673436-the-invention-of-hugo-cabret,"Historical,Historical Fiction",Mar-07,Scholastic Press,534,English,4.19,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422312376i/9673436.jpg,Historical,Historical Fiction
+60,"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan,https://www.goodreads.com/book/show/7736182-the-lost-hero,"Fantasy,Young Adult",October 12th 2010,Disney-Hyperion Books,576,English,4.31,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464201003i/7736182.jpg,Fantasy,Young Adult
+61,"Phantom Wolf (Phantom Wolf, #1)",Kia Carrington-Russell,https://www.goodreads.com/book/show/22404103-phantom-wolf,"Fantasy,Contemporary",June 19th 2014,"Crystal Publishing
+
+            ,",191,English,3.5,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1467009833i/22404103.jpg,Fantasy,Contemporary
+62,Saving CeeCee Honeycutt,"Beth Hoffman,Jenna Lamia",https://www.goodreads.com/book/show/6617928-saving-ceecee-honeycutt,"Fiction,Historical",January 12th 2010,"Penguin Audio
+
+            ,",10,English,3.92,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348364490i/6617928.jpg,Fiction,Historical
+63,Life Expectancy,Dean Koontz,https://www.goodreads.com/book/show/16435.Life_Expectancy,"Horror,Fiction",October 25th 2005,"Bantam Books
+
+            ,",476,English,3.95,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308458308i/16435.jpg,Horror,Fiction
+64,"Trust: A New Beginning (Trust Trilogy, #1)",Cristiane Serruya,https://www.goodreads.com/book/show/16160314-trust,"Romance,Adult Fiction",November 14th 2012,CreateSpace,464,English,3.49,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353446926i/16160314.jpg,Romance,Adult Fiction
+65,"Hard Eight (Stephanie Plum, #8)","Janet Evanovich,Lorelei King",https://www.goodreads.com/book/show/6425.Hard_Eight,"Mystery,Fiction",June 16th 2003,"St. Martin's Press
+
+            ,",326,English,4.14,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479699438i/6425.jpg,Mystery,Fiction
+66,"Six of Crows (Six of Crows, #1)",Leigh Bardugo,https://www.goodreads.com/book/show/23437156-six-of-crows,"Fantasy,Young Adult",September 29th 2015,Henry Holt & Company,465,English,4.47,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651710803i/23437156.jpg,Fantasy,Young Adult
+67,"Across the Nightingale Floor (Tales of the Otori, #1)",Lian Hearn,https://www.goodreads.com/book/show/77160.Across_the_Nightingale_Floor,"Fantasy,Fiction",January 1st 2002,Riverhead Books,305,English,4.06,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438630231i/77160.jpg,Fantasy,Fiction
+68,Bossypants,Tina Fey,https://www.goodreads.com/book/show/9418327-bossypants,"Nonfiction,Autobiography",April 5th 2011,Reagan Arthur Books,283,English,3.95,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481509554i/9418327.jpg,Nonfiction,Autobiography
+69,"Dead Witch Walking (The Hollows, #1)",Kim Harrison,https://www.goodreads.com/book/show/30264.Dead_Witch_Walking,"Fantasy,Urban Fantasy",July 1st 2004,"HarperTorch
+
+            ,",416,English,4.02,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391713381i/30264.jpg,Fantasy,Urban Fantasy
+70,"Iron Kissed (Mercy Thompson, #3)",Patricia Briggs,https://www.goodreads.com/book/show/1412138.Iron_Kissed,"Fantasy,Urban Fantasy",January 2nd 2008,Ace,287,English,4.31,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358229529i/1412138.jpg,Fantasy,Urban Fantasy
+71,Duma Key,Stephen King,https://www.goodreads.com/book/show/472343.Duma_Key,"Horror,Fiction",January 22nd 2008,Scribner Book Company,611,English,3.94,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620172619i/472343.jpg,Horror,Fiction
+72,The Children of Húrin,"J.R.R. Tolkien,Christopher Tolkien,Alan       Lee",https://www.goodreads.com/book/show/597790.The_Children_of_H_rin,"Fantasy,Fiction",April 16th 2007,HarperCollins,313,English,3.97,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390692771i/597790.jpg,Fantasy,Fiction
+73,The Nix,Nathan  Hill,https://www.goodreads.com/book/show/28251002-the-nix,"Fiction,Historical",August 30th 2016,Knopf,640,English,4.05,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474083394i/28251002.jpg,Fiction,Historical
+74,"Lirael (Abhorsen, #2)",Garth Nix,https://www.goodreads.com/book/show/47624.Lirael,"Fantasy,Young Adult",December 30th 2015,"Eos
+
+            ,",464,English,4.24,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266458951i/47624.jpg,Fantasy,Young Adult
+75,Peony in Love,Lisa See,https://www.goodreads.com/book/show/24472.Peony_in_Love,"Historical,Historical Fiction",June 26th 2007,Random House,273,English,3.62,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438435175i/24472.jpg,Historical,Historical Fiction
+76,The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren,https://www.goodreads.com/book/show/56495.The_Purpose_Driven_Life,"Christian,Nonfiction",February 1st 2007,"Zondervan Publishing Company
+
+            ,",334,English,3.94,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440111652i/56495.jpg,Christian,Nonfiction
+77,Half the Sky: Turning Oppression Into Opportunity for Women Worldwide,"Nicholas D. Kristof,Sheryl WuDunn",https://www.goodreads.com/book/show/6260997-half-the-sky,"Nonfiction,Feminism",September 8th 2009,"Knopf Publishing Group
+
+            ,",294,English,4.26,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320486170i/6260997.jpg,Nonfiction,Feminism
+78,"The Devil Wears Prada (The Devil Wears Prada, #1)",Lauren Weisberger,https://www.goodreads.com/book/show/5139.The_Devil_Wears_Prada,"Womens Fiction,Chick Lit",May 30th 2006,"Anchor Books
+
+            ,",432,English,3.77,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388179604i/5139.jpg,Womens Fiction,Chick Lit
+79,"Wolves of the Calla (The Dark Tower, #5)","Stephen King,Bernie Wrightson",https://www.goodreads.com/book/show/4978.Wolves_of_the_Calla,"Fantasy,Fiction",February 1st 2006,"Pocket Books
+
+            ,",931,English,4.16,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419360231i/4978.jpg,Fantasy,Fiction
+80,American Born Chinese,Gene Luen Yang,https://www.goodreads.com/book/show/118944.American_Born_Chinese,"Sequential Art,Graphic Novels",September 5th 2006,"First Second
+
+            ,",240,English,3.88,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317066615i/118944.jpg,Sequential Art,Graphic Novels
+81,The Lace Reader,Brunonia Barry,https://www.goodreads.com/book/show/1951125.The_Lace_Reader,"Fiction,Mystery",Jul-07,"Flap Jacket Press
+
+            ,",353,English,3.48,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562776620i/1951125.jpg,Fiction,Mystery
+82,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,"Todd Burpo,Lynn Vincent",https://www.goodreads.com/book/show/7933292-heaven-is-for-real,"Nonfiction,Christian",2010,Thomas Nelson,162,English,4,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348467278i/7933292.jpg,Nonfiction,Christian
+84,The Lost City of Z: A Tale of Deadly Obsession in the Amazon,David Grann,https://www.goodreads.com/book/show/3398625-the-lost-city-of-z,"Nonfiction,History",February 24th 2009,Doubleday/Random House (NY),339,English,3.84,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320487318i/3398625.jpg,Nonfiction,History
+85,"Child 44 (Leo Demidov, #1)",Tom Rob Smith,https://www.goodreads.com/book/show/2161733.Child_44,"Fiction,Historical",April 1st 2009,"Grand Central Publishing
+
+            ,",509,English,4.08,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1326549060i/2161733.jpg,Fiction,Historical
+86,The Silver Linings Playbook,Matthew Quick,https://www.goodreads.com/book/show/13539044-the-silver-linings-playbook,"Fiction,Contemporary",October 16th 2012,"Sarah Crichton Books
+
+            ,",289,English,3.98,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630676434i/13539044.jpg,Fiction,Contemporary
+87,The People of Paper,Salvador Plascencia,https://www.goodreads.com/book/show/43603.The_People_of_Paper,"Fiction,Magical Realism",November 13th 2006,"Mariner Books
+
+            ,",256,English,4.08,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509762508i/43603.jpg,Fiction,Magical Realism
+88,"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward,https://www.goodreads.com/book/show/35729.Lover_Eternal,"Romance,Fantasy",March 7th 2006,Signet,441,English,4.33,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1300845974i/35729.jpg,Romance,Fantasy
+89,"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas,https://www.goodreads.com/book/show/17927395-a-court-of-mist-and-fury,"Fantasy,Romance",May 3rd 2016,Bloomsbury USA Childrens,626,English,4.58,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546406996i/17927395.jpg,Fantasy,Romance
+90,Hotel on the Corner of Bitter and Sweet,Jamie Ford,https://www.goodreads.com/book/show/3367956-hotel-on-the-corner-of-bitter-and-sweet,"Historical,Historical Fiction",January 27th 2009,Ballantine Books,290,English,4.01,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348332221i/3367956.jpg,Historical,Historical Fiction
+91,Oblivion: Stories,David Foster Wallace,https://www.goodreads.com/book/show/6749.Oblivion,"Short Stories,Fiction",August 30th 2005,"Back Bay Books
+
+            ,",329,English,4.06,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311905400i/6749.jpg,Short Stories,Fiction
+92,Suite Française,"Irène Némirovsky,Sandra Smith",https://www.goodreads.com/book/show/43944.Suite_Fran_aise,"Fiction,Historical",April 10th 2007,"Vintage
+
+            ,",431,English,3.81,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557142046i/43944.jpg,Fiction,Historical
+93,"The Passage (The Passage, #1)",Justin Cronin,https://www.goodreads.com/book/show/6690798-the-passage,"Horror,Fiction",June 8th 2010,Ballantine Books,766,English,4.02,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327874267i/6690798.jpg,Horror,Fiction
+94,Mystic River,Dennis Lehane,https://www.goodreads.com/book/show/21671.Mystic_River,"Mystery,Fiction",February 1st 2001,"William Morrow Paperbacks
+
+            ,",416,English,4.12,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407109549i/21671.jpg,Mystery,Fiction
+95,The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher,https://www.goodreads.com/book/show/18300212-the-trigger,"History,Nonfiction",May 1st 2014,Chatto  Windus,352,English,3.67,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388535774i/18300212.jpg,History,Nonfiction
+96,The Book of Salt,Monique Truong,https://www.goodreads.com/book/show/2719.The_Book_of_Salt,"Fiction,Historical",June 15th 2004,"Mariner Books
+
+            ,",261,English,3.52,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441635660i/2719.jpg,Fiction,Historical
+97,Half of a Yellow Sun,Chimamanda Ngozi Adichie,https://www.goodreads.com/book/show/18749.Half_of_a_Yellow_Sun,"Fiction,Historical",September 12th 2006,Knopf,433,English,4.3,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327934717i/18749.jpg,Fiction,Historical
+98,Shutter Island,Dennis Lehane,https://www.goodreads.com/book/show/21686.Shutter_Island,"Mystery,Fiction",April 27th 2004,"HarperTorch
+
+            ,",369,English,4.07,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329269081i/21686.jpg,Mystery,Fiction
+99,One Day,David Nicholls,https://www.goodreads.com/book/show/6280118-one-day,"Fiction,Romance",January 1st 2009,Hodder & Stoughton,435,English,3.8,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327873020i/6280118.jpg,Fiction,Romance
+100,"The Eyre Affair (Thursday Next, #1)",Jasper Fforde,https://www.goodreads.com/book/show/27003.The_Eyre_Affair,"Fantasy,Fiction",February 25th 2003,"Penguin Books
+
+            ,",374,English,3.86,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445540555i/27003.jpg,Fantasy,Fiction
+101,Black Swan Green,David Mitchell,https://www.goodreads.com/book/show/14316.Black_Swan_Green,"Fiction,Young Adult",February 27th 2007,"Random House
+
+            ,",296,English,3.93,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320562118i/14316.jpg,Fiction,Young Adult
+102,"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss,https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear,"Fantasy,Fiction",March 1st 2011,DAW Books,994,English,4.53,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1452624392i/1215032.jpg,Fantasy,Fiction
+103,"Spirit Bound (Vampire Academy, #5)",Richelle Mead,https://www.goodreads.com/book/show/6479259-spirit-bound,"Young Adult,Paranormal",May 18th 2010,Razorbill,489,English,4.31,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1291168967i/6479259.jpg,Young Adult,Paranormal
+104,The Girl on the Train,Paula Hawkins,https://www.goodreads.com/book/show/22557272-the-girl-on-the-train,"Fiction,Mystery",January 13th 2015,"Riverhead Books
+
+            ,",325,English,3.94,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574805682i/22557272.jpg,Fiction,Mystery
+105,The Forgotten Garden,Kate Morton,https://www.goodreads.com/book/show/3407877-the-forgotten-garden,"Fiction,Historical",June 1st 2008,Pan Books,648,English,4.12,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547843777i/3407877.jpg,Fiction,Historical
+106,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,https://www.goodreads.com/book/show/1097.Fast_Food_Nation,"Nonfiction,Food and Drink",July 5th 2005,"Harper Perennial
+
+            ,",399,English,3.74,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554229727i/1097.jpg,Nonfiction,Food and Drink
+107,Little Bee,Chris Cleave,https://www.goodreads.com/book/show/6948436-little-bee,"Fiction,Cultural",February 16th 2010,"Simon & Schuster
+
+            ,",275,English,3.71,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344401905i/6948436.jpg,Fiction,Cultural
+108,Fingersmith,Sarah Waters,https://www.goodreads.com/book/show/45162.Fingersmith,"Historical,Historical Fiction",October 1st 2002,Riverhead Books,548,English,3.98,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327879025i/45162.jpg,Historical,Historical Fiction
+109,Let the Right One In,John Ajvide Lindqvist,https://www.goodreads.com/book/show/943402.Let_the_Right_One_In,"Horror,Fiction",August 2nd 2007,"Quercus Publishing
+
+            ,",513,English,4.02,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327893384i/943402.jpg,Horror,Fiction
+110,"Delirium (Delirium, #1)",Lauren Oliver,https://www.goodreads.com/book/show/11614718-delirium,"Young Adult,Science Fiction",February 7th 2012,"HarperCollins
+
+            ,",441,English,3.96,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327890411i/11614718.jpg,Young Adult,Science Fiction
+111,"The Final Empire (Mistborn, #1)",Brandon Sanderson,https://www.goodreads.com/book/show/68428.The_Final_Empire,"Fantasy,Fiction",July 17th 2006,Tor Books,541,English,4.44,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428.jpg,Fantasy,Fiction
+112,"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James,https://www.goodreads.com/book/show/10818853-fifty-shades-of-grey,"Romance,Fiction",May 25th 2011,Vintage,356,English,3.66,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385207843i/10818853.jpg,Romance,Fiction
+113,"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare,https://www.goodreads.com/book/show/10025305-clockwork-prince,"Fantasy,Young Adult",December 6th 2011,Margaret K. McElderry Books,498,English,4.41,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460477747i/10025305.jpg,Fantasy,Young Adult
+114,Saturday,Ian McEwan,https://www.goodreads.com/book/show/5015.Saturday,"Fiction,Contemporary",April 11th 2006,"Anchor
+
+            ,",289,English,3.62,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653060907i/5015.jpg,Fiction,Contemporary
+115,"Matched (Matched, #1)",Ally Condie,https://www.goodreads.com/book/show/7735333-matched,"Young Adult,Science Fiction",November 30th 2010,Dutton Books for Young Readers,369,English,3.65,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367706191i/7735333.jpg,Young Adult,Science Fiction
+116,Flow Down Like Silver: Hypatia of Alexandria,Ki Longfellow,https://www.goodreads.com/book/show/6801755-flow-down-like-silver,"Historical,Historical Fiction",August 20th 2009,Eio Books,301,English,3.78,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348371147i/6801755.jpg,Historical,Historical Fiction
+118,"The Year of the Flood (MaddAddam, #2)",Margaret Atwood,https://www.goodreads.com/book/show/6080337-the-year-of-the-flood,"Fiction,Science Fiction",September 22nd 2009,Doubleday Nan A. Talese,431,English,4.03,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327906873i/6080337.jpg,Fiction,Science Fiction
+119,"Odd Thomas (Odd Thomas, #1)",Dean Koontz,https://www.goodreads.com/book/show/14995.Odd_Thomas,"Horror,Fiction",August 29th 2006,"Bantam
+
+            ,",446,English,3.96,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388245669i/14995.jpg,Horror,Fiction
+120,Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,https://www.goodreads.com/book/show/2199.Team_of_Rivals,"History,Nonfiction",September 26th 2006,"Simon & Schuster
+
+            ,",916,English,4.22,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676201263i/2199.jpg,History,Nonfiction
+121,"A Discovery of Witches (All Souls Trilogy, #1)",Deborah Harkness,https://www.goodreads.com/book/show/8667848-a-discovery-of-witches,"Fantasy,Fiction",Feb-11,Viking Penguin,579,English,4,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1525097370i/8667848.jpg,Fantasy,Fiction
+122,"Wonder (Wonder, #1)",R.J. Palacio,https://www.goodreads.com/book/show/11387515-wonder,"Young Adult,Fiction",February 14th 2012,Alfred A. Knopf,315,English,4.4,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545695751i/11387515.jpg,Young Adult,Fiction
+123,The Tale of Despereaux,"Kate DiCamillo,Timothy Basil Ering",https://www.goodreads.com/book/show/37190.The_Tale_of_Despereaux,"Fantasy,Fiction",September 9th 2008,"Candlewick Press
+
+            ,",267,English,4.03,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412211823i/37190.jpg,Fantasy,Fiction
+124,My Life in France,"Julia Child,Alex Prud'Homme",https://www.goodreads.com/book/show/5084.My_Life_in_France,"Nonfiction,Autobiography",April 4th 2006,"Knopf Publishing Group
+
+            ,",336,English,4.1,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1395564378i/5084.jpg,Nonfiction,Autobiography
+125,The Bookseller of Kabul,"Åsne Seierstad,Ingrid Christopherson",https://www.goodreads.com/book/show/9838.The_Bookseller_of_Kabul,"Nonfiction,Biography",October 26th 2004,"Little, Brown and Company
+
+            ,",288,English,3.74,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388611939i/9838.jpg,Nonfiction,Biography
+126,Snow,"Orhan Pamuk,Maureen Freely",https://www.goodreads.com/book/show/11691.Snow,"Fiction,Literature",Aug-05,"Vintage Books
+
+            ,",463,English,3.59,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742528820i/11691.jpg,Fiction,Literature
+127,Stiff: The Curious Lives of Human Cadavers,Mary Roach,https://www.goodreads.com/book/show/32145.Stiff,"Nonfiction,Science",May 17th 2004,"W. W. Norton  Company
+
+            ,",303,English,4.04,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649429166i/32145.jpg,Nonfiction,Science
+130,Marie Antoinette: The Journey,Antonia Fraser,https://www.goodreads.com/book/show/17157.Marie_Antoinette,"History,Biography",September 12th 2006,"Anchor Books
+
+            ,",512,English,3.88,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388200308i/17157.jpg,History,Biography
+131,The God Complex,Chris Titus,https://www.goodreads.com/book/show/12279098-the-god-complex,"Mystery,Thriller",June 23rd 2011,CreateSpace,278,English,3.84,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327139102i/12279098.jpg,Mystery,Thriller
+132,"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Michelle Hodkin,https://www.goodreads.com/book/show/11408650-the-unbecoming-of-mara-dyer,"Young Adult,Fantasy",September 27th 2011,Simon & Schuster Books for Young Readers,456,English,4.02,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336655755i/11408650.jpg,Young Adult,Fantasy
+133,The Inheritance of Loss,Kiran Desai,https://www.goodreads.com/book/show/95186.The_Inheritance_of_Loss,"Fiction,Cultural",2005,Grove Press,357,English,3.44,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327909065i/95186.jpg,Fiction,Cultural
+134,"Are You There, Vodka? It's Me, Chelsea",Chelsea Handler,https://www.goodreads.com/book/show/40173.Are_You_There_Vodka_It_s_Me_Chelsea,"Humor,Nonfiction",May 1st 2007,HarperCollins Publishers,264,English,3.83,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1215803088i/40173.jpg,Humor,Nonfiction
+135,Curiosity kills the KatHA,Ashok  Kallarakkal,https://www.goodreads.com/book/show/16069963-curiosity-kills-the-katha,Short Stories,August 1st 2012,Leadstart   Corp.,148,English,3.71,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349573041i/16069963.jpg,Short Stories,
+136,"The Snowman (Harry Hole, #7)","Jo Nesbø,Don Bartlett",https://www.goodreads.com/book/show/9572203-the-snowman,"Mystery,Mystery",May 10th 2011,"Knopf
+
+            ,",383,English,4.01,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355881478i/9572203.jpg,Mystery,Mystery
+137,"1st to Die (Women's Murder Club, #1)",James Patterson,https://www.goodreads.com/book/show/13137.1st_to_Die,"Mystery,Fiction",May 20th 2005,"Grand Central Publishing
+
+            ,",424,English,4.08,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522906581i/13137.jpg,Mystery,Fiction
+138,"The Angel Experiment (Maximum Ride, #1)",James Patterson,https://www.goodreads.com/book/show/13152.The_Angel_Experiment,"Young Adult,Fantasy",May 5th 2006,"Grand Central Publishing
+
+            ,",445,English,4.06,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1339277875i/13152.jpg,Young Adult,Fantasy
+139,"Persepolis 2: The Story of a Return (Persepolis, #2)","Marjane Satrapi,Anjali Singh",https://www.goodreads.com/book/show/9517.Persepolis_2,"Sequential Art,Graphic Novels",August 2nd 2005,"Pantheon Books
+
+            ,",187,English,4.16,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327865598i/9517.jpg,Sequential Art,Graphic Novels
+140,Alexander Hamilton,Ron Chernow,https://www.goodreads.com/book/show/16130.Alexander_Hamilton,"History,Biography",March 29th 2005,"Penguin Books
+
+            ,",818,English,4.17,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436131915i/16130.jpg,History,Biography
+141,"The Likeness (Dublin Murder Squad, #2)",Tana French,https://www.goodreads.com/book/show/1914973.The_Likeness,"Mystery,Fiction",August 1st 2008,"Viking Adult
+
+            ,",466,English,4.04,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348934952i/1914973.jpg,Mystery,Fiction
+142,The Sacred Band,"Janet E. Morris,Chris Morris",https://www.goodreads.com/book/show/8617107-the-sacred-band,"Fantasy,Historical",April 5th 2010,Createspace,570,English,4.46,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349080741i/8617107.jpg,Fantasy,Historical
+143,The Lost: A Search for Six of Six Million,Daniel Mendelsohn,https://www.goodreads.com/book/show/112286.The_Lost,"Nonfiction,History",September 19th 2006,"Harper
+
+            ,",512,English,3.92,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347815813i/112286.jpg,Nonfiction,History
+144,The Warmth of Other Suns: The Epic Story of America's Great Migration,Isabel Wilkerson,https://www.goodreads.com/book/show/8171378-the-warmth-of-other-suns,"History,Nonfiction",September 7th 2010,Random House,622,English,4.39,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1433354252i/8171378.jpg,History,Nonfiction
+145,"Heat: An Amateur's Adventures as Kitchen Slave, Line Cook, Pasta-Maker, and Apprentice to a Dante-Quoting Butcher in Tuscany",Bill Buford,https://www.goodreads.com/book/show/139220.Heat,"Food and Drink,Food",May 30th 2006,"Knopf
+
+            ,",336,English,3.9,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320554917i/139220.jpg,Food and Drink,Food
+146,"Where She Went (If I Stay, #2)",Gayle Forman,https://www.goodreads.com/book/show/8492825-where-she-went,"Young Adult,Romance",April 5th 2011,Dutton Juvenile,264,English,4,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347810457i/8492825.jpg,Young Adult,Romance
+147,"Pandemonium (Delirium, #2)",Lauren Oliver,https://www.goodreads.com/book/show/9593911-pandemonium,"Young Adult,Science Fiction",February 28th 2012,HarperTeen,375,English,4.04,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310371414i/9593911.jpg,Young Adult,Science Fiction
+148,"A Hat Full of Sky (Discworld, #32; Tiffany Aching, #2)",Terry Pratchett,https://www.goodreads.com/book/show/34501.A_Hat_Full_of_Sky,"Fantasy,Young Adult",May 5th 2005,"Corgi Childrens
+
+            ,",352,English,4.25,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1319037274i/34501.jpg,Fantasy,Young Adult
+149,Truth and Beauty,Ann Patchett,https://www.goodreads.com/book/show/3686.Truth_and_Beauty,"Autobiography,Memoir",April 5th 2005,"Harper Perennial
+
+            ,",257,English,3.93,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1410140355i/3686.jpg,Autobiography,Memoir
+150,"The Awakening (Darkest Powers, #2)",Kelley Armstrong,https://www.goodreads.com/book/show/5391115-the-awakening,"Young Adult,Fantasy",April 28th 2009,HarperCollins,360,English,4.12,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1478986806i/5391115.jpg,Young Adult,Fantasy
+151,"Last Sacrifice (Vampire Academy, #6)",Richelle Mead,https://www.goodreads.com/book/show/6527740-last-sacrifice,"Young Adult,Paranormal",December 7th 2010,Razorbill,594,English,4.36,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1319850978i/6527740.jpg,Young Adult,Paranormal
+152,"The Alchemyst (The Secrets of the Immortal Nicholas Flamel, #1)",Michael Scott,https://www.goodreads.com/book/show/17402605-the-alchemyst,"Fantasy,Young Adult",August 5th 2010,"Corgi Childrens
+
+            ,",390,English,3.84,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361310229i/17402605.jpg,Fantasy,Young Adult
+153,The Botany of Desire: A Plant's-Eye View of the World,Michael Pollan,https://www.goodreads.com/book/show/13839.The_Botany_of_Desire,"Nonfiction,Science",May 28th 2002,"Random House Trade Paperbacks
+
+            ,",297,English,4.04,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403642467i/13839.jpg,Nonfiction,Science
+154,Circe,Madeline Miller,https://www.goodreads.com/book/show/35959740-circe,"Fantasy,Fiction",April 10th 2018,"Little, Brown and Company",393,English,4.26,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565909496i/35959740.jpg,Fantasy,Fiction
+155,Dark Matter,Blake Crouch,https://www.goodreads.com/book/show/27833670-dark-matter,"Science Fiction,Fiction",July 26th 2016,Crown,342,English,4.1,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472119680i/27833670.jpg,Science Fiction,Fiction
+156,Small Island,Andrea Levy,https://www.goodreads.com/book/show/44001.Small_Island,"Fiction,Historical",April 1st 2005,"Picador USA
+
+            ,",441,English,3.98,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437256773i/44001.jpg,Fiction,Historical
+157,The Lucky One,Nicholas Sparks,https://www.goodreads.com/book/show/3063499-the-lucky-one,"Romance,Fiction",August 11th 2009,"Grand Central Publishing
+
+            ,",326,English,4.12,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1420816338i/3063499.jpg,Romance,Fiction
+158,"Fire (Graceling Realm, #2)",Kristin Cashore,https://www.goodreads.com/book/show/6137154-fire,"Fantasy,Young Adult",October 5th 2009,Dial Books,480,English,4.08,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331535456i/6137154.jpg,Fantasy,Young Adult
+159,The Solitude of Prime Numbers,"Paolo Giordano,Shaun Whiteside",https://www.goodreads.com/book/show/6613956-the-solitude-of-prime-numbers,"Fiction,Contemporary",March 18th 2010,"Pamela Dorman Books
+
+            ,",271,English,3.62,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442465089i/6613956.jpg,Fiction,Contemporary
+160,"The Queen's Fool (The Plantagenet and Tudor Novels, #12)",Philippa Gregory,https://www.goodreads.com/book/show/252499.The_Queen_s_Fool,"Historical,Historical Fiction",February 4th 2004,"Harper Collins
+
+            ,",504,English,3.87,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1399204116i/252499.jpg,Historical,Historical Fiction
+161,State of Wonder,Ann Patchett,https://www.goodreads.com/book/show/9118135-state-of-wonder,"Fiction,Contemporary",June 7th 2011,"HarperCollins Publishers
+
+            ,",353,English,3.88,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454428541i/9118135.jpg,Fiction,Contemporary
+162,If I Stay,Gayle Forman,https://www.goodreads.com/book/show/4374400-if-i-stay,"Young Adult,Romance",April 2nd 2009,Viking,201,English,3.93,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630573973i/4374400.jpg,Young Adult,Romance
+163,Dear John,Nicholas Sparks,https://www.goodreads.com/book/show/5526.Dear_John,"Romance,Fiction",October 30th 2006,"Warner Books (NY)
+
+            ,",276,English,4.03,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397749854i/5526.jpg,Romance,Fiction
+164,Carnal: Somewhere Over 40 Winks,Rom LcO'Feer,https://www.goodreads.com/book/show/7673244-carnal,"Contemporary,Psychology",September 16th 2009,"Lulu.com
+
+            ,",222,English,3.47,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347312513i/7673244.jpg,Contemporary,Psychology
+165,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",Chuck Klosterman,https://www.goodreads.com/book/show/599.Sex_Drugs_and_Cocoa_Puffs,"Nonfiction,Writing",July 2nd 2004,"Scribner
+
+            ,",272,English,3.71,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1380742001i/599.jpg,Nonfiction,Writing
+166,I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban,"Malala Yousafzai,Christina Lamb",https://www.goodreads.com/book/show/17851885-i-am-malala,"Nonfiction,Biography",October 8th 2013,"Little, Brown and Company
+
+            ,",327,English,4.12,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375414895i/17851885.jpg,Nonfiction,Biography
+167,"Allegiant (Divergent, #3)",Veronica Roth,https://www.goodreads.com/book/show/18710190-allegiant,"Young Adult,Science Fiction",October 22nd 2013,HarperCollins Children's Book's,526,English,3.62,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1395582745i/18710190.jpg,Young Adult,Science Fiction
+168,Fantastic Beasts and Where to Find Them,"Newt Scamander,J.K. Rowling",https://www.goodreads.com/book/show/41899.Fantastic_Beasts_and_Where_to_Find_Them,"Fantasy,Fiction",June 1st 2001,"Arthur A. Levine Books
+
+            ,",128,English,3.96,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1303738520i/41899.jpg,Fantasy,Fiction
+169,Houdini Heart,Ki Longfellow,https://www.goodreads.com/book/show/11324204-houdini-heart,"Horror,Fantasy",April 25th 2011,Eio Books,254,English,3.75,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1510418043i/11324204.jpg,Horror,Fantasy
+170,"Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen",Julie Powell,https://www.goodreads.com/book/show/13747.Julie_and_Julia,"Nonfiction,Autobiography",September 1st 2005,Little Brown and Company,310,English,3.7,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442804846i/13747.jpg,Nonfiction,Autobiography
+171,"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris,https://www.goodreads.com/book/show/110494.Living_Dead_in_Dallas,"Fantasy,Paranormal",April 1st 2004,"Orbit
+
+            ,",291,English,3.95,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329501808i/110494.jpg,Fantasy,Paranormal
+172,"Legend (Legend, #1)",Marie Lu,https://www.goodreads.com/book/show/9275658-legend,"Young Adult,Science Fiction",November 29th 2011,Putnam Juvenile,305,English,4.16,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501368160i/9275658.jpg,Young Adult,Science Fiction
+173,"The Unlikely Pilgrimage of Harold Fry (Harold Fry, #1)",Rachel Joyce,https://www.goodreads.com/book/show/13227454-the-unlikely-pilgrimage-of-harold-fry,"Fiction,Contemporary",July 24th 2012,"Random House
+
+            ,",320,English,3.91,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1335816092i/13227454.jpg,Fiction,Contemporary
+174,A Gentleman in Moscow,Amor Towles,https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow,"Historical,Historical Fiction",March 26th 2019,"Penguin Books
+
+            ,",462,English,4.32,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718915012i/34066798.jpg,Historical,Historical Fiction
+175,"An Echo in the Bone (Outlander, #7)","Diana Gabaldon,Diana Gabaldon",https://www.goodreads.com/book/show/2832909-an-echo-in-the-bone,"Historical,Historical Fiction",January 21st 2010,"Orion
+
+            ,",820,English,4.4,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1370918297i/2832909.jpg,Historical,Historical Fiction
+176,Suzanne's Diary for Nicholas,James Patterson,https://www.goodreads.com/book/show/7494.Suzanne_s_Diary_for_Nicholas,"Romance,Fiction",August 1st 2003,"Vision
+
+            ,",289,English,4.15,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404736778i/7494.jpg,Romance,Fiction
+177,Change of Heart,Jodi Picoult,https://www.goodreads.com/book/show/1609451.Change_of_Heart,"Fiction,Contemporary",March 4th 2008,Atria Books,448,English,3.91,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390429931i/1609451.jpg,Fiction,Contemporary
+178,"Moon Called (Mercy Thompson, #1)",Patricia Briggs,https://www.goodreads.com/book/show/71811.Moon_Called,"Fantasy,Urban Fantasy",January 31st 2006,Ace,289,English,4.12,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1743122298i/71811.jpg,Fantasy,Urban Fantasy
+179,"Fall of Giants (The Century Trilogy, #1)",Ken Follett,https://www.goodreads.com/book/show/7315573-fall-of-giants,"Historical,Historical Fiction",September 28th 2010,Berkley,985,English,4.27,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470384630i/7315573.jpg,Historical,Historical Fiction
+180,The Tiger's Wife,Téa Obreht,https://www.goodreads.com/book/show/8366402-the-tiger-s-wife,"Fiction,Historical",March 8th 2011,Random House,338,English,3.42,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382570044i/8366402.jpg,Fiction,Historical
+182,Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,https://www.goodreads.com/book/show/1301.Moneyball,"Nonfiction,Sports",March 17th 2004,"W. W. Norton  Company
+
+            ,",317,English,4.22,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388176510i/1301.jpg,Nonfiction,Sports
+183,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama,https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope,"Nonfiction,Politics",October 17th 2006,"Crown Publishers
+
+            ,",375,English,3.78,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386925614i/9742.jpg,Nonfiction,Politics
+184,A Man Called Ove,"Fredrik Backman,Henning Koch,Uroš Kalčič,اسدالله حقانی",https://www.goodreads.com/book/show/18774964-a-man-called-ove,"Fiction,Contemporary",July 15th 2014,"Atria Books
+
+            ,",337,English,4.35,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405259930i/18774964.jpg,Fiction,Contemporary
+185,Fragile Things: Short Fictions and Wonders,Neil Gaiman,https://www.goodreads.com/book/show/16788.Fragile_Things,"Fantasy,Short Stories",September 26th 2006,"William Morrow
+
+            ,",360,English,3.91,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924550i/16788.jpg,Fantasy,Short Stories
+186,Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,https://www.goodreads.com/book/show/12262741-wild,"Nonfiction,Autobiography",March 20th 2012,Knopf,315,English,4.02,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453189881i/12262741.jpg,Nonfiction,Autobiography
+188,"Inferno (Robert Langdon, #4)",Dan Brown,https://www.goodreads.com/book/show/17212231-inferno,"Fiction,Thriller",May 14th 2013,Doubleday,463,English,3.86,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534070896i/17212231.jpg,Fiction,Thriller
+189,"The Rosie Project (Don Tillman, #1)",Graeme Simsion,https://www.goodreads.com/book/show/16181775-the-rosie-project,"Fiction,Romance",October 1st 2013,"Simon & Schuster
+
+            ,",295,English,4.01,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1371651741i/16181775.jpg,Fiction,Romance
+190,"Poison Study (Study, #1)",Maria V. Snyder,https://www.goodreads.com/book/show/60510.Poison_Study,"Fantasy,Young Adult",March 1st 2007,"Mira
+
+            ,",427,English,4.07,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388519019i/60510.jpg,Fantasy,Young Adult
+191,The Sea,John Banville,https://www.goodreads.com/book/show/3656.The_Sea,"Fiction,Cultural",August 15th 2006,"Vintage
+
+            ,",195,English,3.52,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924824i/3656.jpg,Fiction,Cultural
+192,Rules of Civility,Amor Towles,https://www.goodreads.com/book/show/10054335-rules-of-civility,"Fiction,Historical",July 26th 2011,Viking Adult,335,English,4.04,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311705045i/10054335.jpg,Fiction,Historical
+193,Dark Places,Gillian Flynn,https://www.goodreads.com/book/show/5886881-dark-places,"Mystery,Fiction",May 5th 2009,Shaye Areheart Books,349,English,3.93,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354988288i/5886881.jpg,Mystery,Fiction
+194,"Evermore (The Immortals, #1)",Alyson Noel,https://www.goodreads.com/book/show/3975774-evermore,"Young Adult,Fantasy",February 3rd 2009,St. Martin's Griffin,301,English,3.59,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362336360i/3975774.jpg,Young Adult,Fantasy
+195,Explosion in Paris,Linda Masemore Pirrung,https://www.goodreads.com/book/show/6447501-explosion-in-paris,"Romance,Womens Fiction",April 24th 2009,"iUniverse.com
+
+            ,",408,English,3.49,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347404282i/6447501.jpg,Romance,Womens Fiction
+196,"The Physick Book of Deliverance Dane (The Physick Book, #1)",Katherine Howe,https://www.goodreads.com/book/show/4836308-the-physick-book-of-deliverance-dane,"Historical,Historical Fiction",May 22nd 2009,voice,371,English,3.72,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442770048i/4836308.jpg,Historical,Historical Fiction
+197,"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare,https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire,"Fantasy,Young Adult",May 27th 2014,Margaret K. McElderry Books,725,English,4.39,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460477794i/8755785.jpg,Fantasy,Young Adult
+198,Can You Keep a Secret?,Sophie Kinsella,https://www.goodreads.com/book/show/33724.Can_You_Keep_a_Secret_,"Womens Fiction,Chick Lit",December 27th 2005,"Dell Publishing Company
+
+            ,",374,English,3.84,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330464293i/33724.jpg,Womens Fiction,Chick Lit
+199,"Fifty Shades Freed (Fifty Shades, #3)",E.L. James,https://www.goodreads.com/book/show/13536860-fifty-shades-freed,"Romance,Adult Fiction",April 17th 2012,Vintage Books,579,English,3.84,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336418837i/13536860.jpg,Romance,Adult Fiction
+200,Embassytown,China Miéville,https://www.goodreads.com/book/show/9265453-embassytown,"Science Fiction,Fiction",May 17th 2011,Del Rey,345,English,3.89,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320470326i/9265453.jpg,Science Fiction,Fiction
+201,Rooftops of Tehran,Mahbod Seraji,https://www.goodreads.com/book/show/6001011-rooftops-of-tehran,"Historical,Historical Fiction",2009,NAL,348,English,3.82,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348590451i/6001011.jpg,Historical,Historical Fiction
+202,Tenth of December,George Saunders,https://www.goodreads.com/book/show/13641208-tenth-of-december,"Short Stories,Fiction",January 8th 2013,"Random House
+
+            ,",251,English,3.95,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349967540i/13641208.jpg,Short Stories,Fiction
+203,The First Fifteen Lives of Harry August,Claire North,https://www.goodreads.com/book/show/35066358-the-first-fifteen-lives-of-harry-august,"Science Fiction,Fiction",April 8th 2014,Redhook,417,English,4.01,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1493966668i/35066358.jpg,Science Fiction,Fiction
+204,Handle with Care,Jodi Picoult,https://www.goodreads.com/book/show/3720975-handle-with-care,"Fiction,Contemporary",March 3rd 2009,"Atria Books
+
+            ,",477,English,3.98,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316440644i/3720975.jpg,Fiction,Contemporary
+205,The Pale King,David Foster Wallace,https://www.goodreads.com/book/show/9443405-the-pale-king,"Fiction,Novels",April 15th 2011,"Little, Brown & Company",548,English,3.96,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1324405497i/9443405.jpg,Fiction,Novels
+206,"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris,https://www.goodreads.com/book/show/140082.Club_Dead,"Fantasy,Paranormal",May 6th 2006,"Orbit
+
+            ,",274,English,3.99,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1329501590i/140082.jpg,Fantasy,Paranormal
+208,Ella Minnow Pea: A Novel in Letters,Mark Dunn,https://www.goodreads.com/book/show/16200.Ella_Minnow_Pea,"Fiction,Humor",September 17th 2002,"Anchor
+
+            ,",208,English,3.88,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479697890i/16200.jpg,Fiction,Humor
+209,"The Golem and the Jinni (The Golem and the Jinni, #1)",Helene Wecker,https://www.goodreads.com/book/show/15819028-the-golem-and-the-jinni,"Fantasy,Historical",April 23rd 2013,Harper,486,English,4.08,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349205573i/15819028.jpg,Fantasy,Historical
+210,"Blood Bound (Mercy Thompson, #2)",Patricia Briggs,https://www.goodreads.com/book/show/285205.Blood_Bound,"Fantasy,Urban Fantasy",January 30th 2007,Ace,292,English,4.29,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1358229157i/285205.jpg,Fantasy,Urban Fantasy
+211,"The Gathering (Darkness Rising, #1)",Kelley Armstrong,https://www.goodreads.com/book/show/7896345-the-gathering,"Young Adult,Fantasy",April 12th 2011,Harper,359,English,3.99,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1277820938i/7896345.jpg,Young Adult,Fantasy
+212,Walks Away Woman,Ki Longfellow,https://www.goodreads.com/book/show/19405702-walks-away-woman,"Adventure,Survival",December 7th 2013,"Eio Books
+
+            ,",254,English,4.38,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386953097i/19405702.jpg,Adventure,Survival
+213,What I Loved,Siri Hustvedt,https://www.goodreads.com/book/show/125502.What_I_Loved,"Fiction,Contemporary",2003,"Sceptre (Hodder and Stoughton)
+
+            ,",370,English,4.07,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347721158i/125502.jpg,Fiction,Contemporary
+214,The Kitchen House,Kathleen Grissom,https://www.goodreads.com/book/show/6837103-the-kitchen-house,"Historical,Historical Fiction",February 2nd 2010,Atria Books,369,English,4.18,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463229128i/6837103.jpg,Historical,Historical Fiction
+215,"The Elite (The Selection, #2)",Kiera Cass,https://www.goodreads.com/book/show/16248068-the-elite,"Young Adult,Romance",April 23rd 2013,HarperTeen,336,English,3.99,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391454595i/16248068.jpg,Young Adult,Romance
+216,"Princess Academy (Princess Academy, #1)",Shannon Hale,https://www.goodreads.com/book/show/85990.Princess_Academy,"Fantasy,Young Adult",April 17th 2007,"Bloomsbury Children's Books
+
+            ,",314,English,3.99,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349410861i/85990.jpg,Fantasy,Young Adult
+218,"Trust: Betrayed (Trust Trilogy, #2)",Cristiane Serruya,https://www.goodreads.com/book/show/17454163-trust,"Romance,Contemporary",April 25th 2013,"CreateSpace
+
+            ,",558,English,4.03,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362707044i/17454163.jpg,Romance,Contemporary
+219,"The Wind Through the Keyhole (The Dark Tower, #4.5)","Stephen King,Jae Lee",https://www.goodreads.com/book/show/12341557-the-wind-through-the-keyhole,"Fantasy,Fiction",April 24th 2012,"Scribner
+
+            ,",322,English,4.15,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328001524i/12341557.jpg,Fantasy,Fiction
+220,Three Day Road,Joseph Boyden,https://www.goodreads.com/book/show/823411.Three_Day_Road,"Historical,Historical Fiction",March 14th 2006,"Penguin Canada
+
+            ,",384,English,4.28,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327905456i/823411.jpg,Historical,Historical Fiction
+221,Lisey's Story,Stephen King,https://www.goodreads.com/book/show/10566.Lisey_s_Story,"Horror,Fiction",October 24th 2006,Scribner,513,English,3.69,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316346037i/10566.jpg,Horror,Fiction
+222,The Invisible Bridge,"Julie Orringer,Arthur Morey",https://www.goodreads.com/book/show/7274337-the-invisible-bridge,"Historical,Historical Fiction",May 4th 2010,Random House Audio,28,English,4.16,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1274139506i/7274337.jpg,Historical,Historical Fiction
+223,The Girl Who Chased the Moon,Sarah Addison Allen,https://www.goodreads.com/book/show/5126859-the-girl-who-chased-the-moon,"Fiction,Magical Realism",March 16th 2010,Bantam,269,English,3.97,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320483463i/5126859.jpg,Fiction,Magical Realism
+224,"Hex Hall (Hex Hall, #1)",Rachel Hawkins,https://www.goodreads.com/book/show/5287473-hex-hall,"Young Adult,Fantasy",March 2nd 2010,Hyperion Book CH,323,English,3.91,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368393885i/5287473.jpg,Young Adult,Fantasy
+226,"Inkdeath (Inkworld, #3)","Cornelia Funke,Anthea Bell",https://www.goodreads.com/book/show/2325825.Inkdeath,"Fantasy,Young Adult",September 28th 2007,Chicken House,699,English,3.93,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327341991i/2325825.jpg,Fantasy,Young Adult
+227,"Dark Fire (Matthew Shardlake, #2)",C.J. Sansom,https://www.goodreads.com/book/show/138683.Dark_Fire,"Historical,Historical Fiction",2006,"Penguin Group
+
+            ,",501,English,4.29,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441320549i/138683.jpg,Historical,Historical Fiction
+228,"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward,https://www.goodreads.com/book/show/42900.Lover_Awakened,"Romance,Fantasy",September 5th 2006,Signet,434,English,4.43,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388773547i/42900.jpg,Romance,Fantasy
+229,Memories of My Melancholy Whores,"Gabriel García Márquez,Edith Grossman",https://www.goodreads.com/book/show/5947099-memories-of-my-melancholy-whores,"Fiction,Classics",November 14th 2006,"Vintage
+
+            ,",115,English,3.6,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320512032i/5947099.jpg,Fiction,Classics
+230,"Arielle: Immortal Awakening (Immortal Rapture, #1)",Lilian Roberts,https://www.goodreads.com/book/show/16165500-arielle,"Romance,Fantasy",November 22nd 2012,"CreateSpace Independent Publishing Platform
+
+            ,",327,English,3.72,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367207047i/16165500.jpg,Romance,Fantasy
+231,Angry Housewives Eating Bon Bons,Lorna Landvik,https://www.goodreads.com/book/show/16249.Angry_Housewives_Eating_Bon_Bons,"Fiction,Womens Fiction",March 29th 2005,"Fawcett Books
+
+            ,",512,English,3.8,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388200872i/16249.jpg,Fiction,Womens Fiction
+232,Lock and Key,Sarah Dessen,https://www.goodreads.com/book/show/1295102.Lock_and_Key,"Young Adult,Romance",April 22nd 2008,Viking's Children's Books,432,English,3.99,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479691949i/1295102.jpg,Young Adult,Romance
+233,"Cry Wolf (Alpha & Omega, #1)",Patricia Briggs,https://www.goodreads.com/book/show/2355575.Cry_Wolf,"Fantasy,Urban Fantasy",July 29th 2008,Ace,294,English,4.11,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1310494063i/2355575.jpg,Fantasy,Urban Fantasy
+234,"Changes (The Dresden Files, #12)",Jim Butcher,https://www.goodreads.com/book/show/6585201-changes,"Fantasy,Fantasy",April 6th 2010,Roc,438,English,4.49,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1304027244i/6585201.jpg,Fantasy,Fantasy
+235,The Nightingale,Kristin Hannah,https://www.goodreads.com/book/show/21853621-the-nightingale,"Historical,Historical Fiction",February 3rd 2015,St. Martin's Press,448,English,4.57,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681839850i/21853621.jpg,Historical,Historical Fiction
+236,"The Wedding (The Notebook, #2)",Nicholas Sparks,https://www.goodreads.com/book/show/3466.The_Wedding,"Romance,Fiction",August 1st 2005,"Vision
+
+            ,",276,English,3.97,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385738787i/3466.jpg,Romance,Fiction
+237,Why Not-World,Alexei Maxim Russell,https://www.goodreads.com/book/show/23506296-why-not-world,"Fantasy,Fiction",January 24th 2013,"CreateSpace 
+
+            ,",358,English,4.13,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415224689i/23506296.jpg,Fantasy,Fiction
+238,JPod,Douglas Coupland,https://www.goodreads.com/book/show/221059.JPod,"Fiction,Cultural",May 1st 2007,"Bloomsbury Publishing PLC
+
+            ,",448,English,3.66,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316729451i/221059.jpg,Fiction,Cultural
+239,"Dead as a Doornail (Sookie Stackhouse, #5)",Charlaine Harris,https://www.goodreads.com/book/show/170210.Dead_as_a_Doornail,"Fantasy,Paranormal",April 25th 2006,"Ace Books
+
+            ,",295,English,3.98,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468562419i/170210.jpg,Fantasy,Paranormal
+240,Matterhorn,Karl Marlantes,https://www.goodreads.com/book/show/6411016-matterhorn,"Fiction,Historical",April 1st 2009,El Leon Literary Arts,663,English,4.17,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431983015i/6411016.jpg,Fiction,Historical
+241,"All Together Dead (Sookie Stackhouse, #7)",Charlaine Harris,https://www.goodreads.com/book/show/140075.All_Together_Dead,"Fantasy,Paranormal",May 1st 2007,Ace Books,336,English,4.04,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417964062i/140075.jpg,Fantasy,Paranormal
+242,"Dead in the Family (Sookie Stackhouse, #10)",Charlaine Harris,https://www.goodreads.com/book/show/7091488-dead-in-the-family,"Fantasy,Paranormal",May 4th 2010,Ace Books,320,English,3.88,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1290479828i/7091488.jpg,Fantasy,Paranormal
+243,"Mayflower: A Story of Courage, Community, and War",Nathaniel Philbrick,https://www.goodreads.com/book/show/4820.Mayflower,"History,Nonfiction",May 9th 2006,Viking,461,English,3.83,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1474488130i/4820.jpg,History,Nonfiction
+244,The Book of Occult,Simon W. Clark,https://www.goodreads.com/book/show/20388847-the-book-of-occult,"Fiction,Occult",December 21st 2013,"Itoh Press
+
+            ,",336,English,3.67,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392105894i/20388847.jpg,Fiction,Occult
+245,The Light Between Oceans,M.L. Stedman,https://www.goodreads.com/book/show/13158800-the-light-between-oceans,"Fiction,Historical",July 31st 2012,"Scribner
+
+            ,",362,English,4.02,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1336683021i/13158800.jpg,Fiction,Historical
+246,"Complicated Moonlight (DCYE, #2)",Lynessa Layne,https://www.goodreads.com/book/show/55196363-complicated-moonlight,"Polyamorous,Reverse Harem",August 30th 2020,Lynessa Layne Literature,287,English,4.33,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598905737i/55196363.jpg,Polyamorous,Reverse Harem
+247,I Am the Messenger,Markus Zusak,https://www.goodreads.com/book/show/19057.I_Am_the_Messenger,"Young Adult,Fiction",May 9th 2006,"Alfred A. Knopf Borzoi Books
+
+            ,",357,English,4.01,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398483261i/19057.jpg,Young Adult,Fiction
+248,Don't Close Your Eyes,"Lynessa Layne,Lynessa James",https://www.goodreads.com/book/show/54352941-don-t-close-your-eyes,"Romance,Polyamorous",June 29th 2020,"Lynessa Layne Literature
+
+            ,",326,English,3.96,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593626735i/54352941.jpg,Romance,Polyamorous
+249,A Painted House,John Grisham,https://www.goodreads.com/book/show/5360.A_Painted_House,"Fiction,Mystery",February 3rd 2004,"Bantam
+
+            ,",384,English,3.71,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924850i/5360.jpg,Fiction,Mystery
+250,Magical Thinking: True Stories,Augusten Burroughs,https://www.goodreads.com/book/show/79790.Magical_Thinking,"Nonfiction,Autobiography",October 1st 2005,"Picador USA
+
+            ,",304,English,3.91,https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442561036i/79790.jpg,Nonfiction,Autobiography

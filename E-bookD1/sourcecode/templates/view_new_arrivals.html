@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>New Arrivals</title>
+</head>
+<body>
+  {% include 'reader_head.html' %}
+
+  <div class="row p-20">
+    <div class="col-1"></div>
+    <div class="col-3 mt-100 text-center sticky-image">
+      <img src="{{img_url}}" style="height: 550px; width: 100%;">
+    </div>
+    <div class="col-7 mt-50" style="padding-left: 80px; height: 550px;">
+      <div class="col-7 mt-80" style="padding-left: 60px; overflow-y: auto; width: 90%;">
+        <h1 class="mt-5">{{title}}</h1>
+        <div class="mt-10" style="font-size: 24px;">{{author}}</div>
+        <h2>
+            <div class="star-rating mt-10" style="--rating-width: calc({{rating}} / 5 * 100%);" title="Rating: {{rating}}"></div> {{rating}} 
+        </h2>
+          <p class="mt-10"><strong>Positive Score:</strong> {{ pos_score }}</p>
+          <p class="mt-10"><strong>Negative Score:</strong> {{ neg_score }}</p>
+      </div>
+      <div class="col-5 mt-20" style="padding-left: 60px; overflow-y: auto; width: 90%;">
+        <h2 class="text-center">Reviews</h2>
+        {% for new_arrival in new_arrivals %}
+          <h3 class="mt-20"> {{ new_arrival[4] }}</h3>
+          <p class="mt-5" style="color: #00a49d;"><strong>Positive Words:</strong> {{new_arrival[8]}}</p>
+          <p class="mt-5" style="color: #a52a2a;"><strong>Negative Words:</strong> {{new_arrival[9]}}</p>
+          <p class="mt-5" style="font-size: 18px;"> {{ new_arrival[5] }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="col-1"></div>
+  </div>
+
+</body>
+</html>

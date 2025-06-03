@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Geners</title>
+</head>
+<body>
+    {% include 'admin_head.html' %}
+    <h1 class="text-center mt-30">Genres</h1>
+    <div class="mt-30">
+        <div class="card_plain">
+            <div class="row">
+                <div class="col-4 m-20" style="padding-left: 40px;">
+                    <h3 class="text-center mt-80">Add Genre</h3>
+                    <form class="m-20" action="add_genre_action" method="post">
+                        <div class="mt-10">
+                            <label for="genre_name">Genre</label>
+                            <div class="mt-10">
+                                <input type="text" class="input-class" style="padding: 10px;" name="genre_name" id="genre_name" placeholder="Enter Genre Name" required>
+                            </div>
+                        </div>
+                        <div>
+                            <input type="submit" class="submit-btn mt-20" value="Add Genre">
+                        </div>
+                    </form>
+                </div>
+                <div class="col-2"></div>
+                <div class="col-3 p-10 m-40">
+                    <h3 class="text-center mt-5">View Genres</h3>
+                    <div class="scrollable-table">
+                        <table border="1" class="table mt-20">
+                            <thead>
+                                <tr>
+                                    <th>Genres</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for genre in genres %}
+                                <tr>
+                                    <td>{{genre[1]}}</td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="col-2"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

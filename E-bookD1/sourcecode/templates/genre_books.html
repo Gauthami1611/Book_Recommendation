@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Books based on Genre</title>
+</head>
+<body>
+    {% include 'reader_head.html' %}
+
+    <div class="row">
+        <div class="col-1"></div>
+        <div class="col-10 mt-30">
+            {% for genre, books in books_by_genre.items() %}
+                <div class="genre-section">
+                    <div class="genre-title text-center">{{ genre }}</div>
+                    <div class="book-grid">
+                        {% for book in books %}
+                        <div class="book-card">
+                            <a href="/view_book?book_id={{book[0]}}&selected_title={{book[1]}}" class="card-link">
+                                <div class="book-image">
+                                    <img src="{{book[10]}}" alt="Book cover">
+                                </div>
+                                <div class="book-details">
+                                    <h4>{{book[1]}}</h4>
+                                    <p><strong>Author: </strong>{{book[2]}}</p>
+                                    <p><strong>Language: </strong>{{book[8]}}</p>
+                                    <p>
+                                        <div class="star-rating" style="--rating-width: calc({{book[9]}} / 5 * 100%);" title="Rating: {{book[9]}}"></div>
+                                        <span>{{book[9]}}</span>
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    <div class="text-right"><a href="/view_books?genre={{genre}}">More {{genre}} Books</a></div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="col-1"></div>
+    </div>
+</body>
+</html>
